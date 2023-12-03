@@ -1,0 +1,41 @@
+ID: Player identification number.
+Name: Player's full name.
+Age: Player's age.
+OVA: Overall rating or overall attribute value, representing the player's overall skill level.
+Nationality: Player's nationality.
+Club: The current football club the player is associated with.
+BOV: Best Overall, the player's highest overall rating.
+BP: Best Position, the player's best or preferred playing position.
+Position: The player's current playing position.
+Player Photo: A photo or link to a photo of the player.
+Club Logo: A logo or link to a logo of the player's current club.
+Flag Photo: A photo or link to a photo of the player's national flag.
+POT: Potential, representing the player's potential skill level.
+Team & Contract: Information about the player's team and contract details.
+Height: Player's height.
+Weight: Player's weight.
+Foot: Player's preferred foot (left, right, or both).
+Growth: Indicates the player's potential for growth.
+Joined: Date when the player joined the current club.
+Loan Date End: End date of the player's current loan, if applicable.
+Value: Player's market value.
+Wage: Player's weekly or monthly wage.
+Release Clause: Contract release clause amount.
+Contract: Details of the player's current contract.
+Attacking, Crossing, Finishing, Heading Accuracy, Short Passing, Volleys: Player's skill ratings in various attacking attributes.
+Skill, Dribbling, Curve, FK Accuracy, Long Passing, Ball Control: Player's skill ratings in various technical attributes.
+Movement, Acceleration, Sprint Speed, Agility, Reactions, Balance, Power, Shot Power, Jumping, Stamina, Strength, Long Shots: Player's skill ratings in various physical and movement attributes.
+Mentality, Aggression, Interceptions, Positioning, Vision, Penalties, Composure: Player's skill ratings in various mental attributes.
+Defending, Marking, Standing Tackle, Sliding Tackle: Player's skill ratings in various defensive attributes.
+Goalkeeping, GK Diving, GK Handling, GK Kicking, GK Positioning, GK Reflexes: Player's skill ratings in various goalkeeping attributes.
+Total Stats: Sum of all the player's attribute ratings.
+Base Stats: Initial or starting attribute ratings.
+W/F: Weak Foot, indicating the player's proficiency with their non-dominant foot.
+SM: Skill Moves, representing the player's ability to perform skill moves.
+A/W: Attacking Work Rate, indicating how often the player participates in attacking plays.
+D/W: Defensive Work Rate, indicating how often the player participates in defensive plays.
+IR: International Reputation, representing the player's reputation on the international stage.
+PAC, SHO, PAS, DRI, DEF, PHY: Player's pace, shooting, passing, dribbling, defending, and physical attribute ratings.
+Hits: A count or indicator of how popular or frequently the player is viewed or searched for.
+LS, ST, RS, LW, LF, CF, RF, RW, LAM, CAM, RAM, LM, LCM, CM, RCM, RM, LWB, LDM, CDM, RDM, RWB, LB, LCB, CB, RCB, RB, GK: Player's position-specific attribute ratings.
+Gender: Player's gender.
